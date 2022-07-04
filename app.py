@@ -10,7 +10,7 @@ import numpy as np
 import pandas as pd
 import streamlit as st
 import tensorflow as tf
-from easyocr import Reader
+import easyocr
 from PIL import Image
 import re
 from bs4 import BeautifulSoup
